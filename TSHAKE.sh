@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-token="التوكن هنا"
+token="385078685:AAFze1vhGE4E9oxS7T8csmE0Z7czi1qFHIc"
 function print_logo() {
 	echo -e "\e[38;5;77m"   
 echo -e "       CH > @TshAkETEAM            "
